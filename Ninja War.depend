@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1389855689 source:f:\gorilla war\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1390490103 source:c:\users\sandesh\desktop\ninja war\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1390490103 source:i:\ninja war\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1391014409 source:f:\miniproject\ninja war 3 (1)\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1393691185 source:f:\miniproject\ninja war 5\main.c
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1393849058 f:\miniproject\ninja war 5\game.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1394373617 source:f:\miniproject\ninja war 6\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"game.h"
+
+1394774478 f:\miniproject\ninja war 6\game.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"getNumber.h"
+
+1394774338 f:\miniproject\ninja war 6\getnumber.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1395018779 source:f:\miniproject\ninja war 7\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"game.h"
+
+1395375822 f:\miniproject\ninja war 7\game.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"getInput.h"
+
+1394818402 f:\miniproject\ninja war 7\getnumber.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1395016747 f:\miniproject\ninja war 7\getinput.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1395018779 source:f:\sandesh_desktop_backup\miniproject\ninja war 7\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"game.h"
+
+1395375822 f:\sandesh_desktop_backup\miniproject\ninja war 7\game.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"getInput.h"
+
+1395016747 f:\sandesh_desktop_backup\miniproject\ninja war 7\getinput.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
